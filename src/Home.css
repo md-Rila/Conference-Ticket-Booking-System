@@ -1,0 +1,20 @@
+li {
+  float: left;
+}
+
+.home_contents {
+  text-align: center;
+  margin: 14%;
+  padding: 12%;
+}
+.home_title {
+  margin-top: 12px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.home_contents {
+  margin: 0%;
+  padding: 0%;
+}

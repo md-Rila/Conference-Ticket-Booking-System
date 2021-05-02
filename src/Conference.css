@@ -1,0 +1,6 @@
+.conference {
+  margin-left: 40%;
+}
+.conference > td {
+  color: blue;
+}
